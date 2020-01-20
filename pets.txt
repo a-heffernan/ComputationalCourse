@@ -2,3 +2,5 @@ list your pets
 none
 half pet
 dog
+Name of pets
+Chloe
