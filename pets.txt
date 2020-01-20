@@ -1,2 +1,4 @@
 list your pets
 none
+half pet
+dog
