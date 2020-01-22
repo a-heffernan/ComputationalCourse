@@ -10,7 +10,32 @@ Giraffe
 pterodactyl
 pterodactyl - not a pet Dhruv
 
+Useful terminal code:
+   enter and/or edit code
+   nano pets.txt
+
 Useful resources:
 desktop.github.com
 donitgit.com
 ohshitgit.com
+
+Can create different branches:
+    shows you all your commands with numbers attached to them after commit
+        git log
+    and attached the numbers were asdf is
+        git checkout asdf
+then you can work locally on this new branch and decide to merge it
+   switch is like checkout but you can name your new branch - here we've called it invert
+       git switch -c invert
+   switch on its own just switches between the different branches, so if we want to go back to the master
+       git switch master
+   to see your different branches
+       git branch 
+   to see difference between branches
+       git diff
+   see the status of the git
+       git status
+   add a new file
+       git add
+       
+Open a pull request
