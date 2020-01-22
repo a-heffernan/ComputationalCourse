@@ -6,9 +6,14 @@ Name of pets
 Chloe
 nice pets
 Chloe
+Giraffe
+pterodactyl
 pterodactyl - not a pet Dhruv
 
+<<<<<<< HEAD
 Useful resources:
 desktop.github.com
 donitgit.com
 ohshitgit.com
+=======
+>>>>>>> c24d04c5d535b8069f7cd15c264a82222a7c8c5e
